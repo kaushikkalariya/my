@@ -1,0 +1,60 @@
+    body
+        {
+            margin-left: 10px;
+            color: #C03;
+        }
+        .header
+        {
+            margin-left:10px;
+            margin-top: 20px;
+            color: burlywood;
+            height: 100px;
+            width: 62%;
+            background-color: #C03;
+            font-size: xx-large;
+            padding-left:500px;
+            
+            
+        }
+        .menubars
+        {
+            margin-left:10px;
+            margin-top: 20px;
+            color: burlywood;
+            height: 100px;
+            width: 64%;
+            background-color: #009;
+
+            
+        }
+        .Button
+        {
+            width: 20px;
+            height: 10px;
+            padding: 10px;
+            
+        }
+        .footer
+        {
+            margin-left:10px;
+            margin-top: 20px;
+            color: burlywood;
+            height: 100px;
+            width: 99%;
+            background-color: #C03;   
+        }
+        .main
+        {
+            margin-left:10px;
+            margin-top: 20px;
+            color: #009;
+            height: 400px;
+            width: 99%;
+            border-style: solid;
+            background-color:chocolate;
+            overflow: scroll;
+            
+            font-size: 20px;
+
+        }
+    
